@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enozuuqe.github.io/DGS/sitemap_index.txt
+Sitemap: https://enozuuqe.github.io/Igk/sitemap_index.txt
+Sitemap: https://enozuuqe.github.io/Pul/sitemap_index.txt
+Sitemap: https://enozuuqe.github.io/pxV/sitemap_index.txt
